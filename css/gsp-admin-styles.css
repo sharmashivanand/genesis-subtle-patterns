@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/**
+ *	Genesis Subtle Patterns CSS Document
+ *	@author Shivanand Sharma
+ * 
+ *	Defines the plugin admin page styles
+ */
+
+.clearfix {
+	clear: both;
+}
+
+.gsp-intro-box {
+	background: #ffffff none repeat scroll 0 0;
+	border-left: 4px solid #ffaa00;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.25);
+	margin: 1.618em 0;
+	padding: 10px 30px;
+}
